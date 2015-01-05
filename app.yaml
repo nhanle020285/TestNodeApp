@@ -2,7 +2,7 @@ version: 1
 runtime: custom
 vm: true
 api_version: 1
-application: node-app-test-813
+application: 'node-app-test-813'
 
 manual_scaling:
   instances: 1
