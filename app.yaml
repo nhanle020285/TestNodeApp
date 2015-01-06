@@ -18,5 +18,5 @@ handlers:
   upload: static/index.html
 
 - url: /.*
-  script: app.js
+  script: server.js
   login: required
