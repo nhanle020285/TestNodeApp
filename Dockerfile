@@ -1,5 +1,5 @@
 FROM ubuntu:14.04
-MAINTAINER Ryan Ploetz <ryan.ploetz@gmail.com>
+MAINTAINER Nhan Le <nhanle02021985@gmail.com>
 RUN apt-get update
 RUN apt-get install -y nodejs npm
 COPY ./src /src
